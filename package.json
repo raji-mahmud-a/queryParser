@@ -1,0 +1,27 @@
+{
+  "name": "parse-query-string",
+  "version": "1.0.0",
+  "description": "A lightweight, no dependency package that parses url querystring into an object with the correct types",
+  "keywords": [
+    "querystring",
+    "express",
+    "parse",
+    "query",
+    "url-parser"
+  ],
+  "homepage": "https://github.com/raji-mahmud-a/queryParser#readme",
+  "bugs": {
+    "url": "https://github.com/raji-mahmud-a/queryParser/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raji-mahmud-a/queryParser.git"
+  },
+  "license": "MIT",
+  "author": "Raji Mahmud <raji.mahmud.a@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  }
+}
